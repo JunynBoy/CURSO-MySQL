@@ -1,4 +1,4 @@
-<h1>##My_Sql - Otávio Miranda</h1>
+<h1>##My_Sql</h1>
 <p>Neste repositório está documentado todo o meu aprendizado em banco de dados, dando os devidos créditos a <a href="https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk">Otávio Miranda</a> e ao seu trabalho que está disponível de forma gratuíta no youtube.</p>
 <br>
 <p>Tendo em vista que o <strong>Objetivo</strong> do curso é o aprendizado em banco para trabalhar com CRUDs o curso aborda alguns conhecimentos específicos necessários para tal;</p>
