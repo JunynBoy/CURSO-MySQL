@@ -23,7 +23,6 @@
         <li>INSERTs mais avançados</li>
         <li>SELECT com vários JOINs</li>
         <li>UPDATE com vários JOINs</li>
-
         <li>DELETE com vários JOINs</li>
         <li>GROUP BY</li>
         <li>MAX, MIN, AVG, SUM, COUNT</li>
