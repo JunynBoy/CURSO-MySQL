@@ -31,6 +31,6 @@
  <ul>
     <li>Segue o PDF da documentação completa; <a href="https://github.com/JunynBoy/MySQL/files/10804242/My_SQL.pdf">Download - [My_SQL.pdf]</a> </li>
 </ul>
-<h2>#Oservações finais;</h2>
+<h2>#Observações finais;</h2>
 <p>O ambiente de desenvolvimento foi trabalhado com Docker-compose e DBeaver, logo foi necessário conhecimentos básicos em Docker para configuração do mesmo!</p>
 <p>OBS: Ainda estou em processo de aprendizado, e documentar todo o processo funciona muito bem para minha organização pessoal, se houver qualquer dica ou crítica feita sobre qualquer conteúdo aqui produzido pode ser enviada no email: <strong>marcos.gasparini13@gmail.com</strong></p>
